@@ -8,3 +8,7 @@ I learnt how to create a personal website using CSS custom properties for better
 <b>Details of the project:</b>
 
 Screenshot of the personal webpage:
+
+![screenshot](https://github.com/joshnsw/JoshPersonalPortfolio/blob/main/img/personalwebsite1.png)
+
+![screenshot](https://github.com/joshnsw/JoshPersonalPortfolio/blob/main/img/personalwebsite2.png)
